@@ -16,9 +16,9 @@ RecyclerView+CircleImageView+NineGridLayout实现微博列表
 
 ###其中
 
-#######1.使用到的CircleImageView 地址 https://github.com/hdodenhof/CircleImageView
+######1.使用到的CircleImageView 地址 https://github.com/hdodenhof/CircleImageView
 
-#######2.NineGridLayout 为自定义控件，用于根据图片数量显示不同的图片布局
+######2.NineGridLayout 为自定义控件，用于根据图片数量显示不同的图片布局
 
   1)、当只有1张图时，可以自己定制图片宽高
 
@@ -32,6 +32,6 @@ RecyclerView+CircleImageView+NineGridLayout实现微博列表
         则按照3*3的方式显示，但是在第9张图上会有一个带“+”号的数字，
         代表还有几张没有显示，如果设置全部显示，理所当然的将所有图片都显示出来。
         
-#######3、图片被按下时，会有一个变暗的效果，这也是模仿微信朋友圈的效果。
+######3、图片被按下时，会有一个变暗的效果，这也是模仿微信朋友圈的效果。
 
 
